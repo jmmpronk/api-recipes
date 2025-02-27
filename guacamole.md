@@ -4,4 +4,5 @@
 * lime
 * salt
 ## Instructions
-Mash it all togheter with care.
+* Peel the avocados
+* Mash it all togheter with care.
