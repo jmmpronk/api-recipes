@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
-*avocado
-*lime
-*salt
+* avocado
+* lime
+* salt
 ## Instructions
-Mash it all togheter
+Mash it all togheter with care.
