@@ -4,4 +4,5 @@
 * lime
 * salt
 ## Instructions
-Mash it all togheter with care.
+* Put one avocado in a bowl
+* Mash it all togheter with care.
